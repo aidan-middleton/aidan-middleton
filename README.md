@@ -1,7 +1,12 @@
 # Howdy, I’m Aidan Middleton 👋
-- 👀 I’m interested in AI/ML and Opensource
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+Welcome to my Github page! I am Aidan and I am currently finishing my Computer Science bachelor’s degree at the University of Texas at Dallas☄️!
+####🌱 I’m currently working on
+- Completing my bachelor’s degree 📜
+- Creating projects utlizing AI/ML 🤖
+- Learning the the ins and outs of using Linux as my personal development enviroment 🐧
+
+#### 💞️ I’m always looking to collaborate 
 - 📫 How to reach me ...
 
 ### Languages I know 🖥️
