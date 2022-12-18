@@ -6,10 +6,9 @@ Welcome to my Github page!
 ### I’m a student working on completing my bachelor’s degree in Computer Science at the University of Texas at Dallas ☄️
 
 ## BIO
-#### I'm currently working on machine learning projects 🤖
-#### I'm learning about about Linux and FOSS 🐧
-#### I’m always looking to collaborate 🤝
-#### I'm always ready to be taught anything 🤔
+#### Currently working on: machine learning projects 🤖
+#### Collaboration: always 🤝
+#### Would like to learn: Reinforcement Learning 🤔
 #### Fun Fact: Nothing get's me going like a cup of Earl Grey tea ☕
 
 <!---
