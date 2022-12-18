@@ -2,7 +2,7 @@
 Welcome to my Github page!
 [Feel free to reach out 📫](Aidan.Middleton@UTDallas.edu)
 
-##About Me
+# #About Me
 ### I’m a student working on completing my bachelor’s degree in Computer Science at the University of Texas at Dallas ☄️
 
 ## BIO
