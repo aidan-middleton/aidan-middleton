@@ -1,5 +1,5 @@
 # Howdy, I’m Aidan Middleton 👋
-📫 How to reach me: 
+📫 How to reach me: aidanrmiddleton+github@gmail.com,
 
 Welcome to my Github page!
 
