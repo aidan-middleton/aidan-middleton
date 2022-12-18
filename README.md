@@ -1,5 +1,5 @@
 # Howdy, I’m Aidan Middleton 👋
-📫 How to reach me: aidanrmiddleton+github@gmail.com,
+📫 How to reach me: ![aidanrmiddleton@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Welcome to my Github page!
 
