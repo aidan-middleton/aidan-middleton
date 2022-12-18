@@ -1,4 +1,5 @@
 # Howdy, I’m Aidan Middleton 👋
+📫 How to reach me: 
 
 Welcome to my Github page!
 
@@ -8,7 +9,6 @@ Welcome to my Github page!
 - Learning the the ins and outs of using Linux as my personal development enviroment 🐧
 
 #### 💞️ I’m always looking to collaborate 
-- 📫 How to reach me ...
 
 ### Languages I know 🖥️
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
