@@ -1,6 +1,6 @@
 # Howdy, I’m Aidan Middleton 👋
 Welcome to my Github page!
-####  [Feel free to reach out 📫](Aidan.Middleton@UTDallas.edu)
+[Feel free to reach out 📫](Aidan.Middleton@UTDallas.edu)
 
 ####  I’m currently working on completing my bachelor’s degree in Computer Science at the University of Texas at Dallas☄️
 
