@@ -1,5 +1,6 @@
 # Howdy, I’m Aidan Middleton 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidanrmiddleton@gmail.com)]
+
 Welcome to my Github page!
 
 #### 🌱 I’m currently working on
