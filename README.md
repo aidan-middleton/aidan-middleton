@@ -2,7 +2,7 @@
 
 Welcome to my Github page! I am Aidan and I am currently finishing my Computer Science bachelor’s degree at the University of Texas at Dallas☄️!
 
-####🌱 I’m currently working on
+#### 🌱 I’m currently working on
 - Completing my bachelor’s degree 📜
 - Creating projects utlizing AI/ML 🤖
 - Learning the the ins and outs of using Linux as my personal development enviroment 🐧
