@@ -1,6 +1,5 @@
 # Howdy, I’m Aidan Middleton 👋
-📫 How to reach me: 
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](mailto:aidanrmiddleton@gmail.com)
+Gmail 	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidanrmiddleton@gmail.com)]
 Welcome to my Github page!
 
 #### 🌱 I’m currently working on
