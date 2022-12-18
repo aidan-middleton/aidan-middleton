@@ -1,9 +1,9 @@
 # Howdy, I’m Aidan Middleton 👋
 
-Welcome to my Github page! I am Aidan and I am currently finishing my Computer Science bachelor’s degree at the University of Texas at Dallas☄️!
+Welcome to my Github page!
 
 #### 🌱 I’m currently working on
-- Completing my bachelor’s degree 📜
+- my bachelor’s degree in Computer Science at the University of Texas at Dallas☄️
 - Creating projects utlizing AI/ML 🤖
 - Learning the the ins and outs of using Linux as my personal development enviroment 🐧
 
