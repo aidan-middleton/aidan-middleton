@@ -6,7 +6,7 @@ Welcome to my Github page!
  - Currently working on: machine learning projects 🤖
  - Collaboration: always 🤝
  - Would like to learn: Reinforcement Learning 🤔
- - Fun Fact: Nothing get's me going like a cup of Earl Grey tea ☕
+ - Fun Fact: nothing get's me started like a cup of Earl Grey tea ☕
 
 <!---
 aidan-middleton/aidan-middleton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
