@@ -2,11 +2,7 @@
 Welcome to my Github page!
 [Feel free to contact me 📫](Aidan.Middleton@UTDallas.edu)
 
-## About Me
- - Currently working on: Creating an stockmaret chatbot based on GPT 3.5 🤖
- - Collaboration: always 🤝
- - Would like to learn: Reinforcement Learning 🤔
- - Fun Fact: I would consider myself a frozen pizza connoisseur 🍕
+Please check out my GPT Stock Market AI Chatbot found here: https://github.com/A-Yoshimoto-Account/cs4485-stockmarket
 
 <!---
 aidan-middleton/aidan-middleton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
